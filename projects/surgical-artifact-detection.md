@@ -4,6 +4,10 @@
 
 Project overview of my **Visual Computing Internship at Fraunhofer IGD**, April–September 2026.
 
+<p align="center">
+  <img src="../assets/project-explainers/surgical-artifact-detection.gif" alt="Animated project explainer for surgical artifact detection" width="100%" />
+</p>
+
 ## Project focus
 
 Detect and review visual artifacts in laparoscopic surgical videos, including **smoke, blood, low brightness, blur, and lens contamination**.

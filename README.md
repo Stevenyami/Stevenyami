@@ -34,6 +34,10 @@ I am a Computer Science master's student at **TU Darmstadt** and a working stude
 ![ViT](https://img.shields.io/badge/Model-Vision_Transformer-2563EB?style=flat-square)
 ![Surgical video](https://img.shields.io/badge/Domain-Surgical_Video-0F766E?style=flat-square)
 
+<p align="center">
+  <img src="./assets/project-explainers/surgical-artifact-detection.gif" alt="Animated project explainer: surgical video frames are classified for visual artifacts, converted into a prediction timeline, and reviewed by a human" width="100%" />
+</p>
+
 Built a surgical video analysis pipeline using **SegSTRONG-C** and **Cholec80**, with a ViT-based classifier for smoke, blood, low brightness, blur, and lens contamination. Implemented frame-level inference, CSV export, timeline visualization, and an interactive GUI for reviewing and correcting predictions.
 
 → [Read the project overview](./projects/surgical-artifact-detection.md)
@@ -43,6 +47,10 @@ Built a surgical video analysis pipeline using **SegSTRONG-C** and **Cholec80**,
 ![Bachelor thesis](https://img.shields.io/badge/Bachelor_Thesis-Grade_1.0-DB2777?style=flat-square)
 ![SAM2](https://img.shields.io/badge/Model-SAM2-2563EB?style=flat-square)
 ![CaDIS](https://img.shields.io/badge/Dataset-CaDIS-0F766E?style=flat-square)
+
+<p align="center">
+  <img src="./assets/project-explainers/sam2-sasvi-segmentation.gif" alt="Animated project explainer: a prompt initializes SAM2 segmentation, SASVi propagates masks through surgical video, and spatial and temporal behavior are evaluated" width="100%" />
+</p>
 
 Fine-tuned SAM2 on **CaDIS** and studied its integration into **SASVi** for surgical scene segmentation. The work evaluates spatial segmentation quality and temporal consistency, with qualitative transfer to **OphNet**.
 
@@ -55,6 +63,10 @@ Nominated for the **Freudenberg Award Digital Science 2026**, among the top thre
 ![U-Net](https://img.shields.io/badge/Architecture-U--Net-2563EB?style=flat-square)
 ![MoNuSeg](https://img.shields.io/badge/Dataset-MoNuSeg-0F766E?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/Implementation-TensorFlow%2FKeras-FF6F00?style=flat-square)
+
+<p align="center">
+  <img src="./assets/project-explainers/unet-nuclei-segmentation.gif" alt="Animated project explainer: MoNuSeg microscopy images are divided into patches, processed with U-Net, and converted into nuclei masks for visual review and exploratory counting" width="100%" />
+</p>
 
 Investigated U-Net segmentation and exploratory cell counting in microscopy images, including data splits, patch-based training, and edge effects. The public notebook implements annotation processing, training, and prediction visualization in **TensorFlow/Keras**.
 
@@ -92,4 +104,4 @@ I am interested in exchanging ideas and collaborating on **computer vision for h
   <a href="mailto:stevenyami315@gmail.com">Email</a>
 </p>
 
-<sub>Hero artwork generated with OpenAI ImageGen and animated specifically for this profile.</sub>
+<sub>Visual artwork generated with OpenAI ImageGen and animated specifically for this profile.</sub>
