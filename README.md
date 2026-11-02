@@ -96,6 +96,10 @@ Investigated U-Net segmentation and exploratory cell counting in microscopy imag
 
 ## 🤝 Let's connect
 
+<p align="center">
+  <img src="./assets/lets-connect-medical-ai.gif" alt="Animated collaboration scene with two medical AI researchers exchanging ideas around a holographic anatomical model" width="100%" />
+</p>
+
 I am interested in exchanging ideas and collaborating on **computer vision for healthcare**, **medical image analysis**, and **surgical data science**.
 
 <p align="center">
