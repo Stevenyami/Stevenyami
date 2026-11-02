@@ -2,7 +2,7 @@
   <img src="./assets/medical-cv-hero.gif" alt="Animated medical computer vision workstation showing surgical video segmentation and artifact detection" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Steve Nyami 👋</h1>
+<h1 align="center">Hello, dear visitors 👋</h1>
 
 <p align="center">
   <strong>Computer Vision for Healthcare · Surgical Data Science · Deep Learning</strong>
